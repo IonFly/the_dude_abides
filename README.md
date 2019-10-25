@@ -18,3 +18,13 @@ docker ps -a
 ```
 docker images
 ```
+
+## Remove docker container
+```
+docker rm <container name or id>
+```
+
+## Remove docker image
+```
+docker rmi <container name or id>
+```
